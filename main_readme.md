@@ -12,7 +12,7 @@
 4. [기술 스택](#기술 스택)
 5. [설정 및 실행](#설정 및 실행)
 6. [Project ProgressStatus](#Project ProgressStatus)
-7. [Copyright](#:copyright: Copyright)
+7. [Copyright](# :copyright: Copyright)
 
 
 
