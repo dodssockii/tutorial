@@ -19,14 +19,12 @@
 ------
 
 - 개발 기간 : 2022. 01. 10 ~ 2022. 02. 18 (6 weeks)
-
 - 개발 인원 : 이주용, 김도연, 김신아, 노건우, 황선주
-
 - 주제 : 면접에 어려움을 겪고 있는 IT 취업준비생을 위한 화상 면접 서비스
 
-  
 
-### 역할 및 팀원 소개
+
+### :busts_in_silhouette: ​역할 및 팀원 소개
 
 ------
 
@@ -38,13 +36,17 @@
 
 
 
+
+
 ### 기술 스택
 
 ------
 
 ##### Back-End
 
-##### <img src="https://img.shields.io/badge/java-8-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-2.4.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+##### <img src="https://img.shields.io/badge/java-8-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-2.4.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Openvidu-2.20.0-00d462?style=for-the-badge&logo=&logoColor=black">
+
+##### <img src="https://img.shields.io/badge/Openvidu-2.20.0-ffcd00?style=for-the-badge&logo=&logoColor=black">
 
 ##### Front-End
 
@@ -99,6 +101,8 @@
 
 
 
+
+
 ### Project ProgressStatus
 
 ------
@@ -112,4 +116,7 @@
 
 
 
-저작권
+#### :copyright: Copyright
+
+------
+
