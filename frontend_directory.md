@@ -1,4 +1,4 @@
-#### ☀️ Front-end Directory Structure
+### ☀️ Front-end Directory Structure
 
 ------
 
